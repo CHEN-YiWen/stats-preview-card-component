@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot(1).png)
-![](Sreenshot(2).png)
+![](Screenshot (1).png)
+![](Screenshot (2).png)
 
 ### Links
 
